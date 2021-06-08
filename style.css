@@ -176,6 +176,9 @@ body {
   .stat h2 {
     font-size: 20px;
   }
+  .stat p {
+    font-size: 12px; 
+  }
 }
 
 /* Desktop and larger screen*/
